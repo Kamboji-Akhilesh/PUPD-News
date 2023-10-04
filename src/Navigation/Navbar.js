@@ -8,7 +8,12 @@ export default function Nav() {
         <div className="navbar">
             <div className="logo">PUPD-YUJ</div>
             <ul className="nav-links">
-                <Link to="/news">News</Link>
+                <Link to="/general">All</Link>
+                <Link to="/business">Business</Link>
+                <Link to="/entertainment">Entertainment</Link>
+                <Link to="/health">Health</Link>
+                <Link to="/science">Science</Link>
+                <Link to="/sports">Sports</Link>
                 <Link to="/profile">Profile</Link>
             </ul>
         </div>

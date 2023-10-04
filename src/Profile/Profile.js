@@ -48,7 +48,7 @@ function Profile() {
             <div className="profile-card">
                 <div className="profile-header">
                     <div className="main-profile">
-                        <img className='profile-pic' src={pic} />
+                        <img className='profile-pic' src={pic} alt=''/>
                         <div className="profile-names">
                             <h1 className="username" id='name'>Name</h1>
                             <small className="page-title">News is key for GK</small>
@@ -78,7 +78,7 @@ function Profile() {
                             <div className='important-data'>
                                 <section className='data-item'>
                                     <h3 className='value'>NewBie</h3>
-                                    <img width={"200pt"} src={lvl1}></img>
+                                    <img width={"200pt"} src={lvl1} alt=''></img>
                                 </section>
                             </div>
                         </div>
