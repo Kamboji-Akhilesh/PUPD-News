@@ -3,6 +3,7 @@ import axios from "axios";
 import "./News.css";
 import { getDatabase, ref, set, get, child } from "firebase/database";
 import { auth } from "../Auth/AuthConnect";
+import Nav from '../Navigation/Navbar';
 
 const useElapsedTime = () => {
   const [elapsedTime, setElapsedTime] = useState(0);
@@ -69,6 +70,7 @@ function News(prop) {
 
   return (
     <div>
+      <Nav />
       <div id="con" className="container">
         <div className="cards">
           {articles.map((article) => (
