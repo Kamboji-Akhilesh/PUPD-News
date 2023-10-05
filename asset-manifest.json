@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/PUPD-News/static/css/main.001fadaa.css",
+    "main.js": "/PUPD-News/static/js/main.6430b09c.js",
+    "static/js/787.66a4299e.chunk.js": "/PUPD-News/static/js/787.66a4299e.chunk.js",
+    "static/media/man5.png": "/PUPD-News/static/media/man5.b5b5ab652ed254ccb1c5.png",
+    "static/media/lvl1.png": "/PUPD-News/static/media/lvl1.413db6d9cf0936149e1e.png",
+    "index.html": "/PUPD-News/index.html",
+    "main.001fadaa.css.map": "/PUPD-News/static/css/main.001fadaa.css.map",
+    "main.6430b09c.js.map": "/PUPD-News/static/js/main.6430b09c.js.map",
+    "787.66a4299e.chunk.js.map": "/PUPD-News/static/js/787.66a4299e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.001fadaa.css",
+    "static/js/main.6430b09c.js"
+  ]
+}
