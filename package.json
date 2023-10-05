@@ -1,7 +1,7 @@
 {
   "name": "news-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://Kamboji-Akhilesh.github.io/PUPD-News",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
